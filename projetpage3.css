@@ -1,0 +1,26 @@
+*{
+    
+    padding: 0px;
+    margin: 0px;
+
+}
+
+
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    background-color: rgba(183, 238, 32, 0.959);
+}
+
+header ul{
+    list-style: none;
+    display: flex;
+}
+
+header ul li{
+
+    padding: 20px;
+    margin: 20px;
